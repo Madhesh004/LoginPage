@@ -7,7 +7,7 @@ function App() {
     <div className="relative min-h-screen bg-white overflow-y-auto font-inter scroll-smooth">
 
       {/* Stripe Gradient Background */}
-      <div className="fixed top-[-450px] left-[-50px] w-[190%] h-[500px] -skew-y-[20deg] transform-gpu overflow-hidden z-0 pointer-events-none">
+      <div className="fixed top-[-550px] left-[-200px] w-[190%] h-[700px] -skew-y-[20deg] transform-gpu overflow-hidden z-0 pointer-events-none">
         <div className="absolute inset-0 animate-gradient" />
       </div>
 
